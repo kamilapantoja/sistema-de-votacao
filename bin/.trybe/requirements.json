@@ -1,0 +1,61 @@
+{
+    "requirements": [
+        {
+            "description": "1 - Testando o método Principal",
+            "bonus": false
+        },
+        {
+            "description": "2 - Testando método getNome da classe PessoaEleitora",
+            "bonus": false
+        },
+        {
+            "description": "3 - Testando método setNome da classe PessoaEleitora",
+            "bonus": false
+        },
+        {
+            "description": "4 - Testando método getCpf da classe PessoaEleitora",
+            "bonus": false
+        },
+        {
+            "description": "5 - Testando método setCpf da classe PessoaEleitora",
+            "bonus": false
+        },
+        {
+            "description": "6 - Testando método getNome da classe PessoaCandidata",
+            "bonus": false
+        },
+        {
+            "description": "7 - Testando método setNome da classe PessoaCandidata",
+            "bonus": false
+        },
+        {
+            "description": "8 - Testando método getNumero da classe PessoaCandidata",
+            "bonus": false
+        },
+        {
+            "description": "9 - Testando método setNumero da classe PessoaCandidata",
+            "bonus": false
+        },
+        {
+            "description": "10 - Testando cadastro de pessoa candidata e eleitora e testando o método votar",
+            "bonus": false
+        },
+        {
+            "description": "11 - Testando cadastro de número pessoa candidata repetido",
+            "bonus": false
+        },
+        {
+            "description": "12 - Testando cadastro de pessoa eleitora repetido",
+            "bonus": false
+        },
+        {
+            "description": "13 - Testando voto de pessoa eleitora pela segunda vez",
+            "bonus": false
+        },
+        {
+            "description": "14 - Testando método mostarResultado e calcularPorcentagemVotos",
+            "bonus": false
+        }
+    ]
+}
+  
