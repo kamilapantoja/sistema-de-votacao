@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="/home/kamila/Área de Trabalho/aceleracao-java/projetos2/acc-java-07-exercises-sistema-de-votacao/src/main/java/com/trybe/acc/java/sistemadevotacao/PessoaEleitora.java">
+</file>
+<file name="/home/kamila/Área de Trabalho/aceleracao-java/projetos2/acc-java-07-exercises-sistema-de-votacao/src/main/java/com/trybe/acc/java/sistemadevotacao/Pessoa.java">
+</file>
+<file name="/home/kamila/Área de Trabalho/aceleracao-java/projetos2/acc-java-07-exercises-sistema-de-votacao/src/main/java/com/trybe/acc/java/sistemadevotacao/GerenciamentoVotacao.java">
+</file>
+<file name="/home/kamila/Área de Trabalho/aceleracao-java/projetos2/acc-java-07-exercises-sistema-de-votacao/src/main/java/com/trybe/acc/java/sistemadevotacao/Principal.java">
+</file>
+<file name="/home/kamila/Área de Trabalho/aceleracao-java/projetos2/acc-java-07-exercises-sistema-de-votacao/src/main/java/com/trybe/acc/java/sistemadevotacao/PessoaCandidata.java">
+</file>
+</checkstyle>
