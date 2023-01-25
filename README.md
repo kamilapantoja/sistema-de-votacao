@@ -50,10 +50,6 @@ Esse sistema deve ter cinco classes: `Principal`, `GerenciamentoVotacao`, `Pesso
         
    Esse ciclo se repete até não haver mais pessoas candidatas para serem cadastradas. Quando isso acontencer, a pessoa usuária entrará com a opção 2 do menu, o que vai parar o primeiro laço. O segundo laço, que representa a etapa de cadastro de pessoas eleitoras, deve ser iniciado logo na sequência.
 
-   ⚠️🔴**IMPORTANTE: para facilitar o uso da classe Scanner do Java, cadastra-se apenas o primeiro nome da pessoa candidata — ou seja, Maria, e não Maria Silva ou Maria Clara.** 🔴⚠️
-
-   ⚠️🔴**DICA: use uma variável do tipo `short` para armazenar a opção inserida pela pessoa usuária, já que é um valor númerico de pequena escala.** 🔴⚠️
-
    - O menu do segundo laço deve ter o formato:
    ```
         Cadastrar pessoa eleitora?
@@ -82,8 +78,6 @@ Esse sistema deve ter cinco classes: `Principal`, `GerenciamentoVotacao`, `Pesso
         
    Esse ciclo se repete até o esgotamento das pessoas eleitoras a serem cadastradas. Ao final desse cadastro, a pessoa usuária entrará com a opção 2 do menu, o que vai parar o segundo laço e iniciar o terceiro, marcando o início da votação.
 
-   ⚠️🔴**IMPORTANTE: para facilitar o uso da classe Scanner do Java, cadastra-se apenas o primeiro nome da pessoa candidata — ou seja, João, e não João Silva ou João Carlos.** 🔴⚠️
-
    - O menu do terceiro laço deve ter o seguinte formato:
    
 ```
@@ -110,8 +104,6 @@ Esse sistema deve ter cinco classes: `Principal`, `GerenciamentoVotacao`, `Pesso
      2 - Resultado Parcial
      3 - Finalizar Votação
 ```
-
-  ⚠️🔴**IMPORTANTE: cada pessoa eleitora só pode votar uma única vez.** 🔴⚠️
 
   Por outro lado, se a pessoa usuária entrar com o valor 2 (que indica que ela quer visualizar o resultado parcial), deve ser impresso no console o resultado parcial. Supondo que temos apenas a pessoa candidata Maria e a pessoa eleitora João, e que João votou em Maria, um exemplo do conteúdo do console depois de escolher a opção 2 (Resultado Parcial) será:
         
@@ -340,7 +332,3 @@ Nome: Maria - 2 votos ( 67.0% )
 Nome: José - 1 votos ( 33.0% )
 Total de votos: 3
 ```
-
-O avaliador automático não necessariamente avalia seu projeto na ordem em que os requisitos aparecem no readme. Isso acontece para deixar o processo de avaliação mais rápido. Então, não se assuste se isso acontecer, ok?
-
----
